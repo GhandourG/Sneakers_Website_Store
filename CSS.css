@@ -16,6 +16,7 @@
     height: 32px;
     left: 313px;
     top: 32px;    
+    z-index: 2;
 }
 
 
@@ -186,7 +187,7 @@
     height: 4.93px;
     left: 339px;
     top: 805px;
-    
+    z-index: 2;
 }
 
 
@@ -196,7 +197,7 @@
     height: 2.69px;
     left: 285.07px;
     top: 802px;
-    
+    z-index: 2;
 }
 
 
@@ -235,7 +236,7 @@
     height: 24px;
     left: 133px;
     top: 881px;
-    
+    z-index: 2;
 }
 
 
@@ -320,7 +321,7 @@ img{
         height: 32px;
         left: 788px;
         top: 88px;
-        
+        z-index: 2;
     } 
 
     .avatar{
@@ -465,7 +466,7 @@ img{
         height: 11px;
         left: 637px;
         top: 1024px;
-        
+        z-index: 2;
     }
 
     .minus{
@@ -474,6 +475,7 @@ img{
         height: 6px;
         left: 512px;
         top: 1022px;
+        z-index: 2;
         
     }
 
