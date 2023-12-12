@@ -1,0 +1,84 @@
+.nav-bar{
+    font-family: monospace;
+    display: flex;
+    opacity: .5;
+    margin-left: 30px;
+}
+
+
+h5{
+    font-size: monospace;
+    margin: 25px;
+}
+
+.icon-cart{
+    width: fit-content;
+    height: fit-content;
+    margin-left: 500px;
+}
+
+.content{
+    display: flex;
+    margin-left: 40px;
+}
+
+.tumb-content{
+    width: 700px;
+    height: fit-content;
+}
+
+.thumb-images{
+    width: 133.074px;
+    height: 133.074px;
+    border-radius: 25px;
+    margin: 6px;
+}
+
+.descripe-content{
+    width: 537px;
+    height: fit-content;
+
+}
+
+.descripe-content h2{
+    color: #000;
+    font-family: Inria Sans;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+h2{
+    width: 537px;
+    height: 154px;
+}
+
+.small-des{
+    width: 537px;
+    height: 182px;
+    color: #000;
+    font-family: Inria Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;   
+}
+
+.btn-groups{
+    width: 537px;
+    height: 76.61px;
+    display: flex;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    border-style: none;
+    background-color: antiquewhite;
+    margin: 3px;
+    border-radius: 16px;
+    background: #FF7D1B;
+    filter: drop-shadow(9px 10px 10px #FF7D1B);
+    color: white;
+}
